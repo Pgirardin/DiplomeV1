@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<point xmlns="http://v8.1c.ru/8.2/virtual-resource-system"
+		xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		base="/blog_server"
+		ib="File=&quot;C:\Users\ndayi\Desktop\Bank\server&quot;;">
+	<ws pointEnableCommon="true">
+		<point name="Авторизатор"
+				alias="auth.1cws"
+				enable="true"
+				reuseSessions="dontuse"
+				sessionMaxAge="0"
+				poolSize="10"
+				poolTimeout="5"/>
+	</ws>
+	<standardOdata enable="true"
+			reuseSessions="autouse"
+			sessionMaxAge="20"
+			poolSize="10"
+			poolTimeout="5"/>
+	<analytics enable="true"/>
+	<httpServices>
+		<service name="ОбменДанными"
+				rootUrl="services"
+				enable="true"
+				reuseSessions="dontuse"
+				sessionMaxAge="0"
+				poolSize="10"
+				poolTimeout="5"/>
+	</httpServices>
+</point>

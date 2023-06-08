@@ -1,0 +1,1057 @@
+﻿1CV8LOG(ver 2.0)
+677c168b-f0f6-409b-9367-cc75b2dab4c0
+
+{20230523085056,N,
+{0,0},1,1,1,1,1,I,"",0,
+{"P",
+{6,
+{"S",""},
+{"S","PGIRRAR\ndayi"}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523085056,N,
+{0,0},1,1,1,1,2,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085103,N,
+{0,0},1,1,1,1,3,I,"File name: C:\Users\ndayi\Desktop\Bank\Блог_Мобильная_4_20-03_21-23 (ФИНАЛ).dt",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085104,N,
+{0,0},1,1,1,1,4,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085104,N,
+{0,0},0,1,1,1,5,I,"File name: C:\Users\ndayi\Desktop\Bank\Блог_Мобильная_4_20-03_21-23 (ФИНАЛ).dt",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085106,N,
+{0,0},0,1,1,1,6,I,"",0,
+{"P",
+{1,
+{"S","PGIRRAR\ndayi"}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523085109,N,
+{0,0},2,1,1,1,1,I,"",0,
+{"P",
+{6,
+{"S","Системный пользователь"},
+{"S","PGIRRAR\ndayi"}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523085109,N,
+{0,0},2,1,1,1,2,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085246,N,
+{0,0},2,1,1,1,7,I,"Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: InformationRegister.НовостиПриложения
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085506,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085506,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085506,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085506,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523085506,N,
+{0,0},2,1,1,1,7,I,"Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: InformationRegister.НовостиПриложения
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523090353,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523090353,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523090358,N,
+{0,0},2,1,1,1,7,I,"MobileClientDataExchange
+Internal settings storage table",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523090358,N,
+{0,0},2,1,1,1,7,I,"MobileClientDataExchange
+Internal settings storage table",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523090400,N,
+{0,0},2,1,1,1,7,I,"Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: InformationRegister.НовостиПриложения
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data is not initialized",1,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,2,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+},
+{
+{"S","Банк"},
+{"S","New"}
+},
+{
+{"S","Наличные"},
+{"S","New"}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data is not initialized",2,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,14,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+},
+{
+{"S","Доходы"},
+{"S","New"}
+},
+{
+{"S","Аванс"},
+{"S","New"}
+},
+{
+{"S","Зарплата"},
+{"S","New"}
+},
+{
+{"S","Подработка"},
+{"S","New"}
+},
+{
+{"S","Расходы"},
+{"S","New"}
+},
+{
+{"S","Автомобиль"},
+{"S","New"}
+},
+{
+{"S","Бензин"},
+{"S","New"}
+},
+{
+{"S","Кафе"},
+{"S","New"}
+},
+{
+{"S","Коммунальные"},
+{"S","New"}
+},
+{
+{"S","Лекарства"},
+{"S","New"}
+},
+{
+{"S","Одежда"},
+{"S","New"}
+},
+{
+{"S","Продукты"},
+{"S","New"}
+},
+{
+{"S","Техника"},
+{"S","New"}
+},
+{
+{"S","Траспорт"},
+{"S","New"}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data is not initialized",3,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,29,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+},
+{
+{"S","АИ92"},
+{"S","New"}
+},
+{
+{"S","АИ95"},
+{"S","New"}
+},
+{
+{"S","Антифрис"},
+{"S","New"}
+},
+{
+{"S","Вино"},
+{"S","New"}
+},
+{
+{"S","Вода"},
+{"S","New"}
+},
+{
+{"S","Водка"},
+{"S","New"}
+},
+{
+{"S","Кейтчуп"},
+{"S","New"}
+},
+{
+{"S","Консервы"},
+{"S","New"}
+},
+{
+{"S","Конфеты"},
+{"S","New"}
+},
+{
+{"S","Крупа"},
+{"S","New"}
+},
+{
+{"S","Маникюр"},
+{"S","New"}
+},
+{
+{"S","Масло"},
+{"S","New"}
+},
+{
+{"S","Молоко"},
+{"S","New"}
+},
+{
+{"S","МоторноеМасло"},
+{"S","New"}
+},
+{
+{"S","Мясо"},
+{"S","New"}
+},
+{
+{"S","Орешки"},
+{"S","New"}
+},
+{
+{"S","Педикюр"},
+{"S","New"}
+},
+{
+{"S","Пиво"},
+{"S","New"}
+},
+{
+{"S","Приправы"},
+{"S","New"}
+},
+{
+{"S","РыбаКопченая"},
+{"S","New"}
+},
+{
+{"S","РыбаСвежая"},
+{"S","New"}
+},
+{
+{"S","РыбаСоленая"},
+{"S","New"}
+},
+{
+{"S","Сало"},
+{"S","New"}
+},
+{
+{"S","Сок"},
+{"S","New"}
+},
+{
+{"S","Стрижка"},
+{"S","New"}
+},
+{
+{"S","Хлеб"},
+{"S","New"}
+},
+{
+{"S","Шоколад"},
+{"S","New"}
+},
+{
+{"S","Эпиляция"},
+{"S","New"}
+},
+{
+{"S","Яйца"},
+{"S","New"}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data is not initialized",4,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,2,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+},
+{
+{"S","Пятерочка"},
+{"S","New"}
+},
+{
+{"S","КБ"},
+{"S","New"}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data update",5,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,0,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data update",6,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,0,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data update",7,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,0,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091526,N,
+{0,0},2,1,1,1,10,I,"Predefined data update",8,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,0,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+}
+}
+}
+}
+}
+},"",0,0,0,1,0,
+{0}
+},
+{20230523091528,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.СМС
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.НовостиПриложения1
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091528,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.СМС
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.НовостиПриложения1
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091539,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: InformationRegister.СМС
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.НовостиПриложения1
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091824,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091824,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091824,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091824,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091833,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: InformationRegister.СМС
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.НовостиПриложения1
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091928,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091928,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091928,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091928,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523091936,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: InformationRegister.СМС
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.НовостиПриложения1
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092110,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092110,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092112,N,
+{0,0},2,1,1,1,7,I,"Object deleted: InformationRegister.СМС
+Object deleted: InformationRegister.НовостиПриложения1",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092112,N,
+{0,0},2,1,1,1,7,I,"Object deleted: InformationRegister.СМС
+Object deleted: InformationRegister.НовостиПриложения1",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092119,N,
+{0,0},2,1,1,1,7,I,"New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+Tables for the speech recognition system has been created
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: InformationRegister.ХранилищеСобытий
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории
+Object modified: Infobase users",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523092234,N,
+{0,0},2,1,1,1,4,I,"",0,
+{"U"},"",0,0,0,1,0,
+{0}
+},
+{20230523093020,N,
+{0,0},0,1,1,1,6,I,"",0,
+{"P",
+{1,
+{"S","PGIRRAR\ndayi"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230523093021,N,
+{0,0},2,1,1,1,1,I,"",0,
+{"P",
+{6,
+{"S","Системный пользователь"},
+{"S","PGIRRAR\ndayi"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230523093021,N,
+{0,0},2,1,1,1,2,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523100308,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523100308,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523100311,N,
+{0,0},2,1,1,1,7,I,"New object: InformationRegister.СМС",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523100311,N,
+{0,0},2,1,1,1,7,I,"New object: InformationRegister.СМС",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523100315,N,
+{0,0},2,1,1,1,7,I,"New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: InformationRegister.ХранилищеСобытий
+New object: InformationRegister.СМС
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: Infobase users
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101720,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101720,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101722,N,
+{0,0},2,1,1,1,7,I,"Object deleted: InformationRegister.ХранилищеСобытий
+Object deleted: InformationRegister.СМС",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101722,N,
+{0,0},2,1,1,1,7,I,"Object deleted: InformationRegister.ХранилищеСобытий
+Object deleted: InformationRegister.СМС",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101729,N,
+{0,0},2,1,1,1,7,I,"New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: Infobase users
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101849,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101849,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101850,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101850,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523101855,N,
+{0,0},2,1,1,1,7,I,"New object: Document.Приход
+New object: Document.Расход
+New object: Document.Перемещение
+New object: Document.Долги
+New object: Catalog.Счета
+New object: Catalog.Категории
+New object: Catalog.Номенклатура
+New object: Catalog.Места
+New object: Catalog.Вложения
+New object: Catalog.Контрагенты
+New object: Catalog.Напоминания
+New object: Catalog.Пользователи
+New object: Enum.ВидыНовостей
+New object: Enum.Булево
+New object: Enum.ТипСчета
+New object: Enum.ОперацииПоДолгам
+New object: Enum.ТипПлатежа
+New object: Constant.Служебная
+New object: Constant.Версия
+New object: Constant.ФиксНастроек
+New object: Constant.Версия1
+New object: Constant.ТекущийПользователь
+New object: InformationRegister.НовостиПриложения
+New object: AccumulationRegister.Кошелек
+New object: AccumulationRegister.Приход
+New object: AccumulationRegister.Расход
+New object: AccumulationRegister.Взаиморасчеты
+Object modified: Infobase users
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Счета
+Data history usage changed: Catalog.Категории",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103037,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103037,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103039,N,
+{0,0},2,1,1,1,7,I,"Object modified: Document.Расход1
+Object deleted: Document.Приход
+Object deleted: Document.Перемещение
+Object deleted: Enum.Булево
+Object modified: AccumulationRegister.Кошелек
+Object modified: AccumulationRegister.Приход",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103039,N,
+{0,0},2,1,1,1,7,I,"Object modified: Document.Расход1
+Object deleted: Document.Приход
+Object deleted: Document.Перемещение
+Object deleted: Enum.Булево
+Object modified: AccumulationRegister.Кошелек
+Object modified: AccumulationRegister.Приход",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103137,N,
+{0,0},2,1,1,1,8,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103137,N,
+{0,0},2,1,1,1,9,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103137,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103137,N,
+{0,0},2,1,1,1,7,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103447,N,
+{0,0},2,1,1,1,3,I,"File name: C:\Users\ndayi\Desktop\Bank\Блог_Мобильная_4_20-03_21-23 (ФИНАЛ).dt",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230523103448,N,
+{0,0},2,1,1,1,4,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+}
